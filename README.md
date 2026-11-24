@@ -28,7 +28,7 @@ URL を知っていれば、誰でも・どこからでもブラウザで開け�
    - **Branch**: `main` / `/ (root)` → **Save**
 4. 1〜2分待つと、次の URL で見られます。
 
-   `https://（GitHubのユーザー名）.github.io/（リポジトリ名）/`
+   `https://lemon741.github.io/it-asset-demo/`
 
 この URL を共有すれば、誰でも開けます。
 
